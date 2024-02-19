@@ -11,8 +11,9 @@ RaspberryPi 4B model
 sudo raspi-config
 ```
 ```
-	* '5 Interfacing Options' -> 'P6 Serial'
-	* "Would you like a login shell to be accessible over serial?" -> "No"
-	* "Would you like the serial port hardware to be enable?" -> "Yes"
-	* Reboot -> "Yes"
+'5 Interfacing Options' -> 'P6 Serial'
+"Would you like a login shell to be accessible over serial?" -> "No"
+"Would you like the serial port hardware to be enable?" -> "Yes"
+Reboot -> "Yes"
+```
 * Config Serial Port
