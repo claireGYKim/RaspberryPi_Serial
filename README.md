@@ -1,10 +1,10 @@
 RaspberryPi_Serial
 ===
 
-###Environment
+### Environment
 RaspberryPi 4B model
 
-###Development Step
+### Development Step
 * Connect with RaspberryPi
 * Serial Port Activate
 * Config Serial Port
